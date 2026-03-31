@@ -18,7 +18,7 @@ This undergraduate research investigates the neuroprotective and memory-enhancin
 Gotu Kola demonstrated potential memory-enhancing and neuroprotective effects against vanadium-induced toxicity.
 
 ## 📁 Project File
-📄 [Download] (Memory_Enhancing_Effect_of_Gotu_Kola_Ozichi_Eneluwe.pdf)
+📄 [Download](Memory_Enhancing_Effect_of_Gotu_Kola_Ozichi_Eneluwe.pdf)
 
 ## 👩‍🔬 Author
 Ozichi Eneluwe
